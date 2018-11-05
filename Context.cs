@@ -5,7 +5,7 @@
         public readonly List<Entity> Entities;
         // вся логика в системах.
         public readonly List<Systems.System> Systems;
-        // вьюшка (наследних монобеха) просто реф на компоненты юнитевских префабов без какой либо логики.
+        // вьюшка (наследник монобеха) просто реф на компоненты юнитевских префабов без какой-либо логики.
         public readonly List<View> Views;
         public readonly List<Object> Resources;
         public readonly GameController GameController;
