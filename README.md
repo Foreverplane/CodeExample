@@ -1,10 +1,20 @@
 # CodeExample
 
-В резюме вроде бы должен быть пример кода. Вот он.
+Here are examples of my code by year.
 
-## SelfCodeReview
+## Client Relayed Multiplayer
+Snapshot system with delta compression for multiplayer on the example of the Nakama client
 
-Паблики - плохо (нарушают инкапсуляцию). 
+## SciWars Sources
+Source code of pet project [SciWars] (https://play.google.com/store/apps/details?id=com.foreverplane.sciwars.cyberspace).
 
-DI целого класса в конструктор тоже так себе. Лучше юзать интерфейс.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ewn3mcd9NlY
+" target="_blank"><img src="http://img.youtube.com/vi/Ewn3mcd9NlY/0.jpg" 
+alt="SciWars" width="240" height="180" border="10" /></a>
+
+## Context and Entity
+Some code from an already outdated library for pet projects.
+
+
+
 

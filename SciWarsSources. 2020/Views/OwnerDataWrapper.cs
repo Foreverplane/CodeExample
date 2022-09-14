@@ -1,0 +1,1 @@
+﻿public class OwnerDataWrapper : DataWrapper<OwnerData> { }
